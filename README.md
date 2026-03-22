@@ -105,3 +105,9 @@ This is a full-stack job board application built with a Next.js frontend and a N
 *   **Data Fetching & State Management:** `@tanstack/react-query` is used for fetching, caching, and managing server state. It helps to keep the UI in sync with the data from the backend.
 *   **HTTP Client:** `axios` is used for making HTTP requests from the frontend to the backend API.
 *   **Styling:** Tailwind CSS is used for styling, as indicated by the presence of `tailwindcss` and a PostCSS configuration.
+
+### Preview
+
+| Home Page (Job List) | Job Detail Page |
+| :---: | :---: |
+| ![Home Page](./screenshots/home.png) | ![Job Detail Page](./screenshots/detail.png) |
